@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to the men of Shaftesbury, or, A letter to a friend concerning the horrid Popish-Plot</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26467</idno>
+            <idno type="STC">Wing A659</idno>
+            <idno type="STC">ESTC R9473</idno>
+            <idno type="EEBO-CITATION">11987304</idno>
+            <idno type="OCLC">ocm 11987304</idno>
+            <idno type="VID">51954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26467)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 557:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to the men of Shaftesbury, or, A letter to a friend concerning the horrid Popish-Plot</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:51954:1"/>
+            <pb n="1" facs="tcp:51954:1" rendition="simple:additions"/>
+            <head>ADVICE TO THE Men of Shaftesbury, OR A LETTER to a FRIEND Concerning <hi>The Horrid Popiſh-Plot.</hi>
+            </head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>YOUR frequent ſolicitations to know my thoughts concerning the many talks of Plots, hath at laſt prevailed with me; and they are theſe.</p>
+            <p n="1">I. I think no man that is not void of Reaſon and True Proteſtant Re<g ref="char:EOLhyphen"/>ligion, can any way queſtion the reality of the Popiſh Plot; it being made out ſo clearly (to the ſat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sfaction of the Law) even by the Plotters themſelves; whom God at laſt wrought ſo upon, that they durſt not go on, but by a Divine Hand were forced to diſcover their own and others helliſh Deſigns: Had not God wrought this Change upon them, a Diſcovery had been impoſſible; for no honeſt man durſt have ventured his Soul to have been the Carrier on of ſuch Diabolical Deſigns; but I alſo think, that our King hath, and will take ſuch effectual Care, by putting the Laws in Execution, that we may be free from the like future dangers.</p>
+            <p n="2">II. I think no man, that is not void of Reaſon, Loyalty to his King, and Love to his Country, can any wayes queſtion, but the ſame Plot is ſtill carrying on: Yet by different, men for different ends: <hi>(viz.)</hi> By men call'd Phanaticks or Common-Wealths-men; the Papiſts contrive ſecretly, wanting a plauſible Pretence to take with the Peo<g ref="char:EOLhyphen"/>ple; the other find ſecret working would fail them, therefore fly to the Law, endea<g ref="char:EOLhyphen"/>vour to make that ſpeak their Treaſons Legal: and ſo delude the unwary by covering their Horrid Deſigns with ſo fair a Vail: But durſt they appear without that, the mul<g ref="char:EOLhyphen"/>titude would ſoon cry, <hi>Tyburn, Tyburn</hi> as a juſt reward for ſuch who would have wheedled them into ſlavery.</p>
+            <p>The Papiſts would deſtroy our Church and State; ſo would the Common-Wealths-men: The Papiſts would ſet up Popery and abſolute Monarchy; the other an <hi>Amſter<g ref="char:EOLhyphen"/>dam</hi> Religion, and Arbitrary Government in the hands of many; but the latter deſign<g ref="char:EOLhyphen"/>ing Gentlemen ſay, They only endeavour to ſecure Proteſtant Religion and Property; it this were all, Pray, why did they not accept the Security the King offered; ſuch as was never offered by a King, never refuſed by a People; for in caſe of the King's Death, (whoſe life God long continue) the Adminiſtrative Power would have been in the hands of Proteſtants, and that by a Law, and pray, what then could the D. of <hi>York</hi> have done againſt Power and Law. But the truth is, theſe Gentlemen were for Power in Poſſeſſion, not in Reverſion; for the King muſt either devolve upon them all but the name of King, as Navy, Militia, and whatever is of value; otherwiſe they will ſtill
+<pb n="2" facs="tcp:51954:2"/>ſuggeſt unto the People, there is great danger of Popery and Arbitrary Govern<g ref="char:EOLhyphen"/>ment.—Oh fooliſh <hi>Engliſh-men!</hi> Who hath bewitched you to believe ſuch Lyars? They ſay they will make our King a glorious King; Oh! Jeſuits, for they do not tell you where they laugh when you believe it here, no, Heaven is the Place, they tell you; They will make you a free People, ſtill Mental Reſervations; 'Tis they will make you free to part with your Moneys; free to accept free quarter; free of any Re<g ref="char:EOLhyphen"/>ligion ſo it make for their Intereſt.</p>
+            <p>In the mean time (as tender as their Conſciences are) they complain not againſt the <hi>Jews</hi> Synagogue here, which is becauſe they cannot hurt them, no more would they againſt the Papiſts, would they bring Lands to them, not take from them; had not Papiſts as much Liberty in the late time as ſince? But you will ſay, they were then ſe<g ref="char:EOLhyphen"/>queſtrated; ſo were Proteſtants, and both as they were Delinquents; and were not Pa<g ref="char:EOLhyphen"/>piſts uſually admitted to Compoſition with Proteſtants? Were there not then as many Prieſts and Jeſuits as ſince? And how many then ſuffered as ſuch? (not one) but theſe Zelots could then and would ſtill be Friends with Papiſts, might they but have the ſoveraign Power, King, and Church-Lands in their Poſſeſſion, but theſe men cann't endure to hear of 40 and 41. 'Tis great Pitty they could not have had their then Act<g ref="char:EOLhyphen"/>ings forgotten, as well as forgiven; then indeed they might hope to accompliſh their helliſh Deſigns now, as well as then. O little Politicians! what in one Age to play one Game twice! but how do they acquit themſelves of the Parallels of 40 and 41? Only with <hi>Billinſgate Language,</hi> and the Act of Oblivion, as if they had been forgiven for no other end, but to act the ſame Villanies over again—But they tell you, 'tis not now, as in 40 and 41, and I think they ſpeak true as to one part <hi>(viz)</hi> that the People are not ſo Tumultuous; (no thanks to them) for now they went from houſe to houſe with their Petition, and glad to get any; Whereas before the People ſought their Petition: But as for their Leaders, they act as if ſeven Unclean Spirits, more than before, were entred into them; otherwiſe what Tends their ſo ſtrenuous endeavouring to get men of their old Principle, that can ſwallow all Oaths; take Sacraments upon them to be Magiſtrates, but that they may pack Juries, and ſo commit Inſolencies without fear, and make a way to be Legal Traitors.</p>
+            <p>Yet theſe men would have you believe they are the only Patriots of their Country; but did they not in 40; and after, prove Wolves in Sheeps Cloathing, and are not ſome of theſe now the very men that acted then? are they not of reſtleſs, ambitious and covetous natures? or men of broken or breaking Fortunes; and ſhall True <hi>Engliſh-men</hi> be ſuch fools, to believe thoſe who have no better wayes to commend themſelves to the People, and to countenance all their actings, than by going about to make a breach upon the beſt Conſtitution of Government in the World, by aſſerting that the ſove<g ref="char:EOLhyphen"/>raign Power lieth in the Commons, and would have all men wonder why the King will not wholly caſt himſelf upon them.</p>
+            <p>Now I will offer to the common ſenſe of any man, whether he would put himſelf under the Guardianſhip of thoſe that had murdered his Father, and turn'd himſelf out of all: And I will farther offer whether the King have not reaſon to be equally jealous of the Proteſtant Diſſenters, as of the Papiſts, the former in this Age having actu<g ref="char:EOLhyphen"/>ally ſubverted Church and State, the latter only plotted ſo to do.</p>
+            <p>But this I know will be looked upon as an unpardonable Crime, to take notice that Phanatick Proteſtants ſhould allow themſelves in that which they condemn in a Pa<g ref="char:EOLhyphen"/>piſt, <hi>(viz)</hi> to overthrow a Proteſtant Church, and murther a Proteſtant King. But theſe zealous Reformers ſay, they deſigned nothing but to make our King great; ſo did they in 40. They complain not againſt the King, but againſt his Evil Counſellors; ſo did they in 40. They would be content with Reformation; ſo ſaid they in 40. But they will tell you, they mean now as they ſay; but how ſhall we know it? I ſup<g ref="char:EOLhyphen"/>poſe the King will never Truſt them ſo as to try them; for ſome of theſe men were in 40, and as yet they never ſhew'd any change, but in changing, getting in all to Go<g ref="char:EOLhyphen"/>vernments: Yet as noxious humors ſpewed out of all; theſe in 40 and 41, were as well eſteemed for honeſt men, as theſe would have the World believe them to be now, but then they had got ſitting Power; and do but ſee what they offered to their then King about <hi>April</hi> 42; Eight Propoſitions declaring their Rights, and their Petition and Advice in <hi>May</hi> following, Conſiſting of 19 Propoſitions, both which I have ad<g ref="char:EOLhyphen"/>ded
+<pb n="3" facs="tcp:51954:2"/>to this Paper, that the World may Judge whether if this Government ſhould at<g ref="char:EOLhyphen"/>tempt to put ſuch Conditions, but upon any private man, we had not juſt reaſon to cry out Tyranny, Oppreſſion, and all that could be bad; nay, was there ever a free born Engliſh man that would leave that to be ſuch an enſlaved King? But I would have theſe that talk ſo much of God, take notice of his hand formerly againſt them; for when under pretence of Redreſſing what was amiſs in Church and State, they had by ſlaughter (to give it the beſt terms) Pillage, Plunder, Sequeſtration, Decimation, Free Quarter, unheard of Monthly T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xes and Exciſes, brought Church and State to ruine. Then they went about to build their Babel to reach to Heaven and Eternity; how then did God confound their Language, and make ſome ſpeech Pres<g ref="char:EOLhyphen"/>byterian, Independent, Anabaptiſt, 5. Monarchy, Quaker, Sweet-Singer, with di<g ref="char:EOLhyphen"/>vers more? How can they think now to carry on their work, ſince yet they do not, nay, confident I am, never will underſtand one another? Therefore I would offer an Expedient to put an end to all Plots, and continue our Peace, that we fear God, honour and Obey our King, and Love one another; and all that will not comply with this, let them meet with <hi>Korah</hi>'s Reward; <hi>Numb.</hi> 16.31, 32, 33, <hi>&amp;c. And it came to paſs as he had made an end of ſpeaking all theſe words: That the ground clave aſunder that was under them. And the Earth opened her mouth, and ſwallowed them up, and their houſes, and all the men that appertained unto</hi> Korah, <hi>and all their Goods. They, and all that appertained to them went down into the Pit, and the Earth cloſed upon them, and they periſhed from among the Congregation,</hi> &amp;c. That they being removed, our Land may enjoy Peace and Truth.</p>
+            <list>
+               <head>The Eight Propoſitions in <hi>April,</hi> 1642.</head>
+               <item>I. That whatſoever they declare to be Law, ought not to be queſtioned by the King.</item>
+               <item>II. That no preſident can be limits, to bound their proceedings.</item>
+               <item>III. That a Parliament, for the publick good, may diſpoſe of any thing wherein the King or Subject hath a right; and that they, without the King, are this Parlia<g ref="char:EOLhyphen"/>ment, and the judge of this publick good, and that the King's conſent is not neceſſary.</item>
+               <item>IV. That no Member of either Houſe ought to be troubled for Treaſon, Felony, or any other Crime, unleſs the cauſe be firſt brought before the Parliament, that they may judge of the fact, and give leave to proceed, if they ſee cauſe.</item>
+               <item>V. That the Soveraign Power reſides in both houſes, and that the King ought to have no negative Voice.</item>
+               <item>VI. That the levying of forces againſt the Perſonal Commands of the King, (though accompanied with his preſence) is not levying War againſt the King, but the levying of War againſt his politique perſon, <hi>viz.</hi> his Laws, <hi>&amp;c.</hi>
+               </item>
+               <item>VII. That Treaſon cannot be committed againſt his, otherwiſe than as he is in<g ref="char:EOLhyphen"/>truſted with the Kingdom, and diſcharges that truſt; and that they have a Power to judge, whether he hath diſcharged his truſt, or not.</item>
+               <item>VIII. That they may diſpoſe of the King when they will.</item>
+            </list>
+            <list>
+               <head>The Nineteen Propoſitions in <hi>May</hi> following.</head>
+               <item>I. That the Lords and other of His Majeſties Privy Council, and all great Offi<g ref="char:EOLhyphen"/>cers of State, both at home and abroad, be put from their Imployments, and from his Council, ſave only ſuch as ſhould be approved of by both Houſes of Parliament, and none put into their places but by approbation of the ſaid Houſes: And that all Privy Councellors take an Oath for the due Execution of their places in ſuch form as ſhall be agreed upon by the ſaid Houſes.</item>
+               <item>II. That the great Affairs of the Kingdom be debated, Reſolved and Tranſacted only in Parliament; and ſuch as ſhall preſume to do any thing to the contracy to be reſerv'd to the cenſure of the Parliament; and ſuch other matters of State as are proper for his Majeſties Privy Council, ſhall be debated and concluded by ſuch as ſhall from time to time be choſen for that place by both Houſes of Parliament. And that no pub<g ref="char:EOLhyphen"/>lick Act concerning the Affairs of the Kingdom which are proper for His Privy Coun<g ref="char:EOLhyphen"/>cil, be eſteemed valid, as proceeding from the Royal Authority, unleſs it be done by
+<pb n="4" facs="tcp:51954:3"/>the Major part of the Council, atteſted under their hands; and that the Council be not more than 25, nor leſs than 15; and that when a Councellor's place falls, it ſhall not be ſupplied without the Aſſent of the major part of the Council; that ſuch and Choice alſo ſhall be void, if the next Parliament after confirm it not.</item>
+               <item>III. That the Lord High Steward of <hi>England,</hi> Lord High Conſtable, Lord Chan<g ref="char:EOLhyphen"/>cellor, or Lord Keeper of the great Seal, Lord Treaſurer, Lord privy Seal, Earl Marſhal, Lord Admiral, Warden of the Cinque-Ports, Chief Governour of <hi>Ireland,</hi> Chancellor of the Exchequer, Maſter of the Wards, Secretaries of State, Two chief Juſtices and Chief Baron, be alwayes choſen with the approbation of both Houſes of Parliament; and in the Intervals of Parliament, by the Major part of the Privy Council.</item>
+               <item>IV. That the Government of the King's Children ſhall be committed to ſuch as both Houſes ſhall approve of; and in the Intervals of Parliament, ſuch as the Privy Council ſhall approve of: That the Servants then about them, againſt whom the Houſes have juſt Exception, ſhould be removed.</item>
+               <item>V. That no Marriage be concluded, or treated of, for any of the King's Children, without conſent of Parliament.</item>
+               <item>VI. That the Laws in force againſt Jeſuits, Prieſts, and Popiſh Recuſants be ſtrict<g ref="char:EOLhyphen"/>ly put in Execution.</item>
+               <item>VII. That the Votes of Popiſh Lords in the Houſe of Peers be taken away; and that a Bill be paſſed for the Education of Children of Papiſts in the Proteſtant Religion.</item>
+               <item>VIII. That the King will be pleaſed to reform the Church Government and Li<g ref="char:EOLhyphen"/>turgy in ſuch manner as both Houſes of Parliament ſhall adviſe.</item>
+               <item>IX. That he would be pleaſed to reſt ſatisfied with that Courſe the Lords and Com<g ref="char:EOLhyphen"/>mons have appointed for ordering the Militia, and recall his Declarations and Procla<g ref="char:EOLhyphen"/>mations againſt it.</item>
+               <item>X. That ſuch Members as have been put out of any Place or Office ſince this Par<g ref="char:EOLhyphen"/>liament began, may be reſtored, or have ſatisfaction.</item>
+               <item>XI. That all Privy Councillors and Judges take an Oath, the form whereof ſhall be agreed on, and ſettled by Act of Parliament, for the maintaining the Petition of Right, and of certain Statutes made by the Parliament.</item>
+               <item>XII. That all Judges and Officers placed by approbation of both Houſes of Parlia<g ref="char:EOLhyphen"/>llament, may hold their Places <hi>quamdiu bene ſe geſſerint.</hi>
+               </item>
+               <item>XIII. That the Juſtice of Parliament may paſs upon all Delinquents, whether they be within the Kingdom, or fled out of it; And that all Perſons cited by either Houſe of Parliament, may appear and abide the Cenſure of Parliament.</item>
+               <item>XIV. That the general Pardon offered by His Majeſty, be granted with ſuch Ex<g ref="char:EOLhyphen"/>cep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions as ſhall be adviſed by both Houſes of Parliament.</item>
+               <item>XV. That the Forts and Caſtles be put under the Command of ſuch Perſons, as with the Approbation of the Parliament the King ſhall Appoint.</item>
+               <item>XVI. That the Extraordinary Guards about the King be diſcharged, and for the future none Raiſed, but according to the Law, in caſe of Actual Rebellion or Invaſions.</item>
+               <item>XVII. That His Majeſty enter into a more ſtrict Alliance with the United Pro<g ref="char:EOLhyphen"/>vinces, and other Neighbour Proteſtant Princes and States.</item>
+               <item>XVIII. That His Majeſty be pleaſed, by Act of Parliament, to clear the Lord <hi>Kimbolton,</hi> and the Five Members of the Houſe of Commons, in ſuch manner, as that future Parliaments may be ſecured from the conſequence of Evil Preſident.</item>
+               <item>XIX. That His Majeſty be pleaſed to paſs a Bill for reſtraining Peers, made here<g ref="char:EOLhyphen"/>after from Sitting or Voting in Parliament, unleſs they be admitted with conſent of Both Houſes of Parliament Theſe Propoſitions granted, they promiſe to apply them<g ref="char:EOLhyphen"/>ſelves to regulate His Majeſties Revenue to His beſt Advantage, and to ſettle it to the ſupport of His Royal Dignity, in Honour and Plenty; and alſo to put the Town of <hi>Hull</hi> into ſuch hands as His Majeſty ſhall appoint, with conſent of Parliament.</item>
+            </list>
+            <p>Thus Sir you have my thoughts, <hi>viz</hi> the Plot is the ſame carried on by different Parties and how far others in this King's dayes have trod in theſe ſteps, to ſubvert Church and State, I leave the whole World to judge.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> John Smith <hi>in</hi> Great Queen Street, <hi>1681.</hi>
+            </p>
+            <pb facs="tcp:51954:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
